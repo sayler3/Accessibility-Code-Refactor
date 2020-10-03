@@ -18,4 +18,4 @@ This is a code refactor for an advertising agency to improve assignability and o
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo]("./assets/01-html-css-git-homework-demo.png")
+![code refactor demo](./assets/01-html-css-git-homework-demo.png)
